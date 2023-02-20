@@ -1,0 +1,30 @@
+Python,39082,All Algorithms implemented in Python,https://github.com/TheAlgorithms,153280,153280,39082
+transformers,18102,"� Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",https://github.com/huggingface,81546,81546,18102
+keras,19292,Deep Learning for humans,https://github.com/keras-team,57349,57349,19292
+rich,1496,Rich is a Python library for rich text and beautiful formatting in the terminal.,https://github.com/Textualize,42113,42113,1496
+python-cheatsheet,5768,Comprehensive Python Cheatsheet,https://github.com/gto76,31726,31726,5768
+black,2027,The uncompromising Python code formatter,https://github.com/psf,31398,31398,2027
+spaCy,4028,� Industrial-strength Natural Language Processing (NLP) in Python,https://github.com/explosion,25280,25280,4028
+django-rest-framework,6476,Web APIs for Django. �,https://github.com/encode,25000,25000,6476
+pipenv,1818, Python Development Workflow for Humans.,https://github.com/pypa,23635,23635,1818
+mmdetection,8354,OpenMMLab Detection Toolbox and Benchmark,https://github.com/open-mmlab,23011,23011,8354
+linkedin-skill-assessments-quizzes,12404,"Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers ",https://github.com/Ebazhanov,22911,22911,12404
+jax,2067,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",https://github.com/google,21956,21956,2067
+algo,6919,数据结构和算法必知必会的50个代码实现,https://github.com/wangzheng0822,21716,21716,6919
+spleeter,2378,Deezer source separation library including pretrained models.,https://github.com/deezer,21682,21682,2378
+celery,4432,Distributed Task Queue (development branch),https://github.com/celery,20969,20969,4432
+fairseq,5233,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,https://github.com/facebookresearch,20932,20932,5233
+jumpserver,4797,JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。,https://github.com/jumpserver,19830,19830,4797
+gpt-2,4321,Code for the paper "Language Models are Unsupervised Multitask Learners",https://github.com/openai,17047,17047,4321
+Open-Assistant,1212,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",https://github.com/LAION-AI,16396,16396,1212
+luigi,2356,"Luigi is a Python moduleconsole.log(error) that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",https://github.com/spotify,16331,16331,2356
+python-spider,5714,:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等,https://github.com/Jack-Cherish,15786,15786,5714
+pyspider,3669,A Powerful Spider(Web Crawler) System in Python.,https://github.com/binux,15744,15744,3669
+rasa,4238,"�   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",https://github.com/RasaHQ,15628,15628,4238
+modern-cpp-features,1770,A cheatsheet of modern C++ language and library features.,https://github.com/AnthonyCalandra,15622,15622,1770
+prophet,4365,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.,https://github.com/facebook,15514,15514,4365
+wxpy,2365,微信机器人 / 可能是最优雅的微信个人号 API ✨✨,https://github.com/youfou,13439,13439,2365
+salt,5400,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ,https://github.com/saltstack,13047,13047,5400
+tensor2tensor,3173,Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.,https://github.com/tensorflow,13002,13002,3173
+vit-pytorch,2161,"Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",https://github.com/lucidrains,12945,12945,2161
+ChatterBot,4234,"ChatterBot is a machine learning, conversational dialog engine for creating chat bots",https://github.com/gunthercox,12938,12938,4234
